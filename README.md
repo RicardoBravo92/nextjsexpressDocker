@@ -15,6 +15,7 @@ Este proyecto es un sistema de registro y login utilizando Next.js para el front
    cd nextjsexpressDocker
 
 
-    
+
+2. ejecuta el comando para usar docker:
+   ```bash
    docker-compose up --build
-   # nextjsexpressDocker
